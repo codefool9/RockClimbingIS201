@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "HTML Project",
+			"path": "../../HTML Project"
+		},
+		{
+			"name": "startbootstrap-agency-gh-pages 2",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-agency-gh-pages 2",
+		"liveServer.settings.port": 5501
+	}
+}
